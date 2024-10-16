@@ -1,0 +1,3 @@
+Aluno: Breno, Nota: 10.0, Aprovado
+Aluno: Matheus, Nota: 7.0, Aprovado
+Aluno: Rodrigo, Nota: 3.0, Reprovado

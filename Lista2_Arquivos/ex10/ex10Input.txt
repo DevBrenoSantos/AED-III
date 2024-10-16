@@ -1,0 +1,2 @@
+Esse é um arquivo de exemplo com mais de trinta caracteres
+Segunda linha do arquivo de exemplo

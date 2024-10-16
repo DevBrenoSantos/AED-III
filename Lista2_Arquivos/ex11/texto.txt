@@ -1,0 +1,2 @@
+Exemplo de palavra exemplo.
+A palavra exemplo aparece três vezes, porque exemplo é a palavra que buscamos.
