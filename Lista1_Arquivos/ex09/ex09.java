@@ -15,6 +15,7 @@ public class ex09 {
             while ((line = reader.readLine()) != null) {
                 String[] parts = line.split(",");
                 if (parts.length == 2) {
+                    @SuppressWarnings("unused")
                     String productName = parts[0].trim();
                     double productPrice = Double.parseDouble(parts[1].trim());
 

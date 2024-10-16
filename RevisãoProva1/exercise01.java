@@ -7,6 +7,7 @@ import java.io.FileInputStream;
 public class exercise01 {
     public static void main(String[] args) {
         try {
+            @SuppressWarnings("resource")
             FileInputStream file = new FileInputStream("./RevisãoProva1/teste.txt");
 
             int byteData, byteCont = 0;
